@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.67793911"
-     inkscape:cx="312.71245"
-     inkscape:cy="629.11254"
+     inkscape:zoom="0.95875069"
+     inkscape:cx="504.82363"
+     inkscape:cy="838.0698"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -354,7 +354,7 @@
        style="stroke-width:5.2917;stroke-linejoin:round" />
     <text
        font-size="99.031px"
-       x="165.3524"
+       x="176.08499"
        font-weight="bold"
        font-family="Ubuntu"
        fill="#000000"
@@ -364,14 +364,14 @@
        text-anchor="middle"
        id="text23"
        style="stroke:none;stroke-width:5.2917;stroke-linejoin:round">      <tspan
-   x="165.3524"
+   x="176.08499"
    fill="#000000"
    y="2564.2705"
    stroke-width="5.2917"
    id="tspan23">EX-</tspan>    </text>
     <text
        font-size="99.031px"
-       x="298.4628"
+       x="308.2197"
        font-weight="bold"
        font-family="Ubuntu"
        fill="#000000"
@@ -381,7 +381,7 @@
        freecad:editable="Numero de ejercicio"
        id="text24"
        style="stroke:none;stroke-width:5.2917;stroke-linejoin:round"><tspan
-         x="298.4628"
+         x="308.2197"
          fill="#000000"
          y="2563.9736"
          xml:space="preserve"
