@@ -12,6 +12,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:freecad="https://www.freecad.org/wiki/index.php?title=Svg_Namespace">
   <sodipodi:namedview
      id="namedview69"
@@ -23,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.47937534"
-     inkscape:cx="580.96438"
-     inkscape:cy="568.44809"
+     inkscape:zoom="0.67793911"
+     inkscape:cx="494.8822"
+     inkscape:cy="685.16477"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -268,7 +271,7 @@
        style="stroke-width:5.2917;stroke-linejoin:round" />
     <text
        font-size="50.043px"
-       x="1048.1019"
+       x="1085.1891"
        font-weight="bold"
        font-family="Ubuntu"
        fill="#000000"
@@ -278,7 +281,7 @@
        text-anchor="middle"
        id="text19"
        style="stroke:none;stroke-width:5.2917;stroke-linejoin:round">      <tspan
-   x="1048.1019"
+   x="1085.1891"
    fill="#000000"
    y="2546.4744"
    stroke-width="5.2917"
@@ -1339,4 +1342,13 @@
       </g>
     </g>
   </g>
+  <metadata
+     id="metadata69">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>FreeCAD SVG Export</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
