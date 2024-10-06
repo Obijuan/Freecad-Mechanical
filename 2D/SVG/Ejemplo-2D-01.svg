@@ -105,7 +105,10 @@
        id="rect2"
        x="0"
        y="0"
-       style="stroke:none;stroke-width:10" />
+       style="stroke:none;stroke-width:10"
+       inkscape:export-filename="../PDF/Ejemplo-2D-01.pdf"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        height="2903.7"
        y="39.028"
