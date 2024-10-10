@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.67793911"
-     inkscape:cx="396.7908"
-     inkscape:cy="561.25984"
+     inkscape:zoom="0.47937534"
+     inkscape:cx="899.08671"
+     inkscape:cy="518.38294"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -310,7 +310,7 @@
        id="rect20"
        style="stroke-width:5.2917;stroke-linejoin:round" />
     <text
-       x="556.8988"
+       x="550.34631"
        text-align="center"
        font-size="99.031px"
        font-family="Ubuntu"
@@ -321,7 +321,7 @@
        font-weight="bold"
        id="text21"
        style="stroke:none;stroke-width:5.2917;stroke-linejoin:round">      <tspan
-   x="556.8988"
+   x="550.34631"
    stroke-width="5.2917"
    y="2564.5679"
    fill="#000000"
@@ -362,7 +362,7 @@
        id="rect22"
        style="stroke-width:5.2917;stroke-linejoin:round" />
     <text
-       x="177.06067"
+       x="174.9538"
        text-align="center"
        font-size="99.031px"
        font-family="Ubuntu"
@@ -373,13 +373,13 @@
        font-weight="bold"
        id="text23"
        style="stroke:none;stroke-width:5.2917;stroke-linejoin:round">      <tspan
-   x="177.06067"
+   x="174.9538"
    stroke-width="5.2917"
    y="2564.2705"
    fill="#000000"
    id="tspan23">EX-</tspan>    </text>
     <text
-       x="305.29263"
+       x="305.36197"
        text-align="center"
        font-size="99.031px"
        font-family="Ubuntu"
@@ -390,7 +390,7 @@
        freecad:editable="Numero de ejercicio"
        id="text24"
        style="stroke:none;stroke-width:5.2917;stroke-linejoin:round"><tspan
-         x="305.29263"
+         x="305.36197"
          stroke-width="5.2917"
          xml:space="preserve"
          y="2563.9736"
@@ -1210,7 +1210,7 @@
          stroke-width="1"
          font-family="Sans Serif"
          stroke-opacity="1"
-         transform="matrix(1,0,0,1,618.867,422.084)"
+         transform="matrix(1,0,0,1,681.701,422.084)"
          fill="none"
          stroke="#000000"
          font-style="normal"
